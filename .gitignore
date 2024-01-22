@@ -1,0 +1,9 @@
+my_hunter
+
+.gitignore~
+
+libmy.a
+*.o
+
+*.gcda
+*.gcno
