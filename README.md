@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to My_Hunter, a vibrant and captivating remix of the classic game Duck Hunt, remixed in the world of one of my favorite games, Stray the cat.
+Welcome to My_Hunter, a vibrant and captivating remix of the classic game Duck Hunt, remixed in the world of one of my favorite games, Stray.
 
 ## Features
 
