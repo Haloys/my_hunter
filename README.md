@@ -38,7 +38,8 @@ Ensure you have the following installed:
 ### Installation
 
 ```bash
-cd B-MUL-100-PAR-1-1-myhunter-aloys.mangin
+git clone git@github.com:Haloys/my_hunter.git
+cd my_hunter
 ```
 
 ```bash
